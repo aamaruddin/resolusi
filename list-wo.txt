@@ -1,0 +1,9 @@
+Jadwal Workout
+Senin:
+  - Back
+  - Bicep
+  - Traps
+Selasa:
+  - Chess
+  - Shoulder
+  - Tricep
